@@ -1,0 +1,889 @@
+{
+  "note": "These are names, syntax, developer diagnostics, and technical tokens retained intentionally. This static audit does not replace runtime UI verification.",
+  "remainingCandidates": [
+    {
+      "file": "renderer.js",
+      "text": " took ",
+      "source": "app/src/ui/lib/timing.ts",
+      "line": 7
+    },
+    {
+      "file": "renderer.js",
+      "text": "Invalid selected rows that contained a negative number passed to SectionList component. This will cause keyboard navigation and focus problems.",
+      "source": "app/src/ui/lib/list/section-list.tsx",
+      "line": 1459
+    },
+    {
+      "file": "renderer.js",
+      "text": "Ctrl",
+      "source": "app/src/ui/repositories-list/repositories-list.tsx",
+      "line": 402
+    },
+    {
+      "file": "renderer.js",
+      "text": "Shift",
+      "source": "app/src/ui/repositories-list/repositories-list.tsx",
+      "line": 408
+    },
+    {
+      "file": "renderer.js",
+      "text": "Invalid selected rows that contained a negative number passed to List component. This will cause keyboard navigation and focus problems.",
+      "source": "app/src/ui/lib/list/list.tsx",
+      "line": 1362
+    },
+    {
+      "file": "renderer.js",
+      "text": "The regex (",
+      "source": "app/src/ui/autocompletion/autocompleting-text-input.tsx",
+      "line": 747
+    },
+    {
+      "file": "renderer.js",
+      "text": ") returned from ",
+      "source": "app/src/ui/autocompletion/autocompleting-text-input.tsx",
+      "line": 747
+    },
+    {
+      "file": "renderer.js",
+      "text": " isn't global, but it should be!",
+      "source": "app/src/ui/autocompletion/autocompleting-text-input.tsx",
+      "line": 747
+    },
+    {
+      "file": "renderer.js",
+      "text": "Avatar tokens are only available for ghe.com",
+      "source": "app/src/ui/lib/avatar.tsx",
+      "line": 31
+    },
+    {
+      "file": "renderer.js",
+      "text": "No account found for endpoint",
+      "source": "app/src/ui/lib/avatar.tsx",
+      "line": 36
+    },
+    {
+      "file": "renderer.js",
+      "text": "Avatar token missing",
+      "source": "app/src/ui/lib/avatar.tsx",
+      "line": 42
+    },
+    {
+      "file": "renderer.js",
+      "text": "Avatar URL already resolved or endpoint is missing",
+      "source": "app/src/ui/lib/avatar.tsx",
+      "line": 66
+    },
+    {
+      "file": "renderer.js",
+      "text": "Email does not appear to be a bot email",
+      "source": "app/src/ui/lib/avatar.tsx",
+      "line": 78
+    },
+    {
+      "file": "renderer.js",
+      "text": "No avatar url returned from API",
+      "source": "app/src/ui/lib/avatar.tsx",
+      "line": 85
+    },
+    {
+      "file": "renderer.js",
+      "text": "Error: user ",
+      "source": "app/src/ui/lib/author-input/author-input.tsx",
+      "line": 435
+    },
+    {
+      "file": "renderer.js",
+      "text": ":scope > div.dialog-header button.close",
+      "source": "app/src/ui/dialog/dialog.tsx",
+      "line": 565
+    },
+    {
+      "file": "renderer.js",
+      "text": ".gitignore",
+      "source": "app/src/ui/repository-settings/git-ignore.tsx",
+      "line": 19
+    },
+    {
+      "file": "renderer.js",
+      "text": "GitHub Enterprise",
+      "source": "app/src/ui/lib/git-email-not-found-warning.tsx",
+      "line": 92
+    },
+    {
+      "file": "renderer.js",
+      "text": "(GitHub Enterprise)",
+      "source": "app/src/ui/lib/git-config-user-form.tsx",
+      "line": 179
+    },
+    {
+      "file": "renderer.js",
+      "text": "Could not read root .gitignore: ",
+      "source": "app/src/ui/repository-settings/repository-settings.tsx",
+      "line": 108
+    },
+    {
+      "file": "renderer.js",
+      "text": "No oldLineNumber for ",
+      "source": "app/src/ui/diff/side-by-side-diff.tsx",
+      "line": 1852
+    },
+    {
+      "file": "renderer.js",
+      "text": "No newLineNumber for ",
+      "source": "app/src/ui/diff/side-by-side-diff.tsx",
+      "line": 1856
+    },
+    {
+      "file": "renderer.js",
+      "text": " value for ",
+      "source": "app/src/ui/diff/side-by-side-diff.tsx",
+      "line": 1995
+    },
+    {
+      "file": "renderer.js",
+      "text": "Home",
+      "source": "app/src/ui/app-menu/menu-pane.tsx",
+      "line": 299
+    },
+    {
+      "file": "renderer.js",
+      "text": "Enter",
+      "source": "app/src/ui/app-menu/menu-pane.tsx",
+      "line": 301
+    },
+    {
+      "file": "renderer.js",
+      "text": "Ctrl",
+      "source": "app/src/ui/branches/no-branches.tsx",
+      "line": 45
+    },
+    {
+      "file": "renderer.js",
+      "text": "Shift",
+      "source": "app/src/ui/branches/no-branches.tsx",
+      "line": 45
+    },
+    {
+      "file": "renderer.js",
+      "text": "\n        </head>\n        <body class=\"markdown-body\">\n          <div id=\"content\">\n          ",
+      "source": "app/src/ui/lib/sandboxed-markdown.tsx",
+      "line": 161
+    },
+    {
+      "file": "renderer.js",
+      "text": "The DropdownSuggestedActions component was provided an empty array. It requires an array of at least one item.",
+      "source": "app/src/ui/suggested-actions/dropdown-suggested-action.tsx",
+      "line": 88
+    },
+    {
+      "file": "renderer.js",
+      "text": "Atom",
+      "source": "app/src/ui/tutorial/tutorial-panel.tsx",
+      "line": 139
+    },
+    {
+      "file": "renderer.js",
+      "text": "Ctrl",
+      "source": "app/src/ui/tutorial/tutorial-panel.tsx",
+      "line": 178
+    },
+    {
+      "file": "renderer.js",
+      "text": "Shift",
+      "source": "app/src/ui/tutorial/tutorial-panel.tsx",
+      "line": 178
+    },
+    {
+      "file": "renderer.js",
+      "text": "README.md",
+      "source": "app/src/ui/tutorial/tutorial-panel.tsx",
+      "line": 193
+    },
+    {
+      "file": "renderer.js",
+      "text": "Git",
+      "source": "app/src/ui/tutorial/welcome.tsx",
+      "line": 30
+    },
+    {
+      "file": "renderer.js",
+      "text": "GitHub",
+      "source": "app/src/ui/tutorial/welcome.tsx",
+      "line": 39
+    },
+    {
+      "file": "renderer.js",
+      "text": "GitHub Desktop",
+      "source": "app/src/ui/tutorial/welcome.tsx",
+      "line": 46
+    },
+    {
+      "file": "renderer.js",
+      "text": " branch-name-warning branch-name-error",
+      "source": "app/src/ui/lib/ref-name-text-box.tsx",
+      "line": 123
+    },
+    {
+      "file": "renderer.js",
+      "text": "GitHub Desktop",
+      "source": "app/src/ui/welcome/start.tsx",
+      "line": 36
+    },
+    {
+      "file": "renderer.js",
+      "text": "Arm64",
+      "source": "app/src/ui/banners/update-available.tsx",
+      "line": 77
+    },
+    {
+      "file": "renderer.js",
+      "text": "GitHub.com",
+      "source": "app/src/ui/preferences/accounts.tsx",
+      "line": 37
+    },
+    {
+      "file": "renderer.js",
+      "text": "GitHub Enterprise",
+      "source": "app/src/ui/preferences/accounts.tsx",
+      "line": 42
+    },
+    {
+      "file": "renderer.js",
+      "text": " GitHub Enterprise",
+      "source": "app/src/ui/preferences/accounts.tsx",
+      "line": 138
+    },
+    {
+      "file": "renderer.js",
+      "text": "Git Credential Manager",
+      "source": "app/src/ui/preferences/advanced.tsx",
+      "line": 145
+    },
+    {
+      "file": "renderer.js",
+      "text": "main",
+      "source": "app/src/ui/preferences/git.tsx",
+      "line": 200
+    },
+    {
+      "file": "renderer.js",
+      "text": "master",
+      "source": "app/src/ui/preferences/git.tsx",
+      "line": 202
+    },
+    {
+      "file": "renderer.js",
+      "text": "GitHub Copilot",
+      "source": "app/src/ui/preferences/integrations.tsx",
+      "line": 395
+    },
+    {
+      "file": "renderer.js",
+      "text": "GitHub Copilot",
+      "source": "app/src/ui/lib/copilot-model-picker.tsx",
+      "line": 228
+    },
+    {
+      "file": "renderer.js",
+      "text": "GitHub Enterprise",
+      "source": "app/src/ui/preferences/copilot.tsx",
+      "line": 121
+    },
+    {
+      "file": "renderer.js",
+      "text": "Copilot",
+      "source": "app/src/ui/preferences/preferences.tsx",
+      "line": 409
+    },
+    {
+      "file": "renderer.js",
+      "text": "Git",
+      "source": "app/src/ui/preferences/preferences.tsx",
+      "line": 414
+    },
+    {
+      "file": "renderer.js",
+      "text": "Azure",
+      "source": "app/src/ui/preferences/copilot-custom-providers-dialog.tsx",
+      "line": 112
+    },
+    {
+      "file": "renderer.js",
+      "text": "Anthropic",
+      "source": "app/src/ui/preferences/copilot-custom-providers-dialog.tsx",
+      "line": 114
+    },
+    {
+      "file": "renderer.js",
+      "text": "Azure",
+      "source": "app/src/ui/copilot/edit-byok-provider-dialog.tsx",
+      "line": 199
+    },
+    {
+      "file": "renderer.js",
+      "text": "Anthropic",
+      "source": "app/src/ui/copilot/edit-byok-provider-dialog.tsx",
+      "line": 200
+    },
+    {
+      "file": "renderer.js",
+      "text": "gpt-4o",
+      "source": "app/src/ui/copilot/edit-byok-model-dialog.tsx",
+      "line": 96
+    },
+    {
+      "file": "renderer.js",
+      "text": "llama3",
+      "source": "app/src/ui/copilot/edit-byok-model-dialog.tsx",
+      "line": 97
+    },
+    {
+      "file": "renderer.js",
+      "text": "SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace, 'Apple Color Emoji', 'Segoe UI', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+      "source": "app/src/ui/get-monospace-font-family.ts",
+      "line": 5
+    },
+    {
+      "file": "renderer.js",
+      "text": ". Only names returned from getGitIgnoreNames() can be used.",
+      "source": "app/src/ui/add-repository/gitignores.ts",
+      "line": 42
+    },
+    {
+      "file": "renderer.js",
+      "text": "# Auto detect text files and perform LF normalization\n* text=auto\n",
+      "source": "app/src/ui/add-repository/git-attributes.ts",
+      "line": 10
+    },
+    {
+      "file": "renderer.js",
+      "text": "README.md",
+      "source": "app/src/ui/add-repository/create-repository.tsx",
+      "line": 557
+    },
+    {
+      "file": "renderer.js",
+      "text": "hubot/cool-repo",
+      "source": "app/src/ui/clone-repository/clone-generic-repository.tsx",
+      "line": 45
+    },
+    {
+      "file": "renderer.js",
+      "text": "GitHub.com",
+      "source": "app/src/ui/clone-repository/clone-repository.tsx",
+      "line": 277
+    },
+    {
+      "file": "renderer.js",
+      "text": "GitHub Enterprise",
+      "source": "app/src/ui/clone-repository/clone-repository.tsx",
+      "line": 278
+    },
+    {
+      "file": "renderer.js",
+      "text": "URL",
+      "source": "app/src/ui/clone-repository/clone-repository.tsx",
+      "line": 279
+    },
+    {
+      "file": "renderer.js",
+      "text": "GitHub Copilot",
+      "source": "app/src/ui/copilot-app/copilot-app-not-found-dialog.tsx",
+      "line": 22
+    },
+    {
+      "file": "renderer.js",
+      "text": "GitHub Desktop",
+      "source": "app/src/ui/about/about.tsx",
+      "line": 273
+    },
+    {
+      "file": "renderer.js",
+      "text": "GitHub.com",
+      "source": "app/src/ui/publish-repository/publish.tsx",
+      "line": 156
+    },
+    {
+      "file": "renderer.js",
+      "text": "GitHub Enterprise",
+      "source": "app/src/ui/publish-repository/publish.tsx",
+      "line": 157
+    },
+    {
+      "file": "renderer.js",
+      "text": "GitHub Desktop",
+      "source": "app/src/ui/acknowledgements/acknowledgements.tsx",
+      "line": 124
+    },
+    {
+      "file": "renderer.js",
+      "text": "GitHub",
+      "source": "app/src/ui/acknowledgements/acknowledgements.tsx",
+      "line": 127
+    },
+    {
+      "file": "renderer.js",
+      "text": "support@github.com",
+      "source": "app/src/ui/terms-and-conditions/terms-and-conditions.tsx",
+      "line": 227
+    },
+    {
+      "file": "renderer.js",
+      "text": "Git LFS",
+      "source": "app/src/ui/lfs/initialize-lfs.tsx",
+      "line": 65
+    },
+    {
+      "file": "renderer.js",
+      "text": "A repository must have a GitHub repository to add an upstream remote",
+      "source": "app/src/ui/upstream-already-exists/upstream-already-exists.tsx",
+      "line": 31
+    },
+    {
+      "file": "renderer.js",
+      "text": "A repository must have a parent repository to add an upstream remote",
+      "source": "app/src/ui/upstream-already-exists/upstream-already-exists.tsx",
+      "line": 35
+    },
+    {
+      "file": "renderer.js",
+      "text": "Git LFS",
+      "source": "app/src/ui/changes/oversized-files-warning.tsx",
+      "line": 48
+    },
+    {
+      "file": "renderer.js",
+      "text": "Cannot resolve while operation is being aborted",
+      "source": "app/src/ui/multi-commit-operation/dialog/conflicts-dialog.tsx",
+      "line": 294
+    },
+    {
+      "file": "renderer.js",
+      "text": "Copilot",
+      "source": "app/src/ui/multi-commit-operation/dialog/copilot-resolution-helpers.ts",
+      "line": 14
+    },
+    {
+      "file": "renderer.js",
+      "text": "] - Invalid state - ",
+      "source": "app/src/ui/multi-commit-operation/base-multi-commit-operation.tsx",
+      "line": 110
+    },
+    {
+      "file": "renderer.js",
+      "text": " ended during ",
+      "source": "app/src/ui/multi-commit-operation/base-multi-commit-operation.tsx",
+      "line": 110
+    },
+    {
+      "file": "renderer.js",
+      "text": "GitHub Desktop",
+      "source": "app/src/ui/lib/app-proxy.ts",
+      "line": 38
+    },
+    {
+      "file": "renderer.js",
+      "text": "GitHub Copilot",
+      "source": "app/src/ui/copilot/copilot-disclaimer.tsx",
+      "line": 40
+    },
+    {
+      "file": "renderer.js",
+      "text": "#repository-sidebar button.commit-button",
+      "source": "app/src/ui/app.tsx",
+      "line": 1525
+    },
+    {
+      "file": "renderer.js",
+      "text": "Attempted to open a popup of type '",
+      "source": "app/src/ui/app.tsx",
+      "line": 1646
+    },
+    {
+      "file": "renderer.js",
+      "text": "' without an Id",
+      "source": "app/src/ui/app.tsx",
+      "line": 1646
+    },
+    {
+      "file": "renderer.js",
+      "text": "Tip is not in a valid state, which is required to start the cherry-pick flow",
+      "source": "app/src/ui/app.tsx",
+      "line": 4178
+    },
+    {
+      "file": "renderer.js",
+      "text": "ResizeObserver loop completed with undelivered notifications.",
+      "source": "app/src/ui/index.tsx",
+      "line": 192
+    },
+    {
+      "file": "renderer.js",
+      "text": "Database",
+      "source": "app/src/ui/index.tsx",
+      "line": 278
+    }
+  ],
+  "jsxNamesAndPunctuation": [
+    {
+      "file": "renderer.js",
+      "text": " (",
+      "source": "app/src/ui/repositories-list/repository-list-item.tsx"
+    },
+    {
+      "file": "renderer.js",
+      "text": ")",
+      "source": "app/src/ui/repositories-list/repository-list-item.tsx"
+    },
+    {
+      "file": "renderer.js",
+      "text": " (",
+      "source": "app/src/ui/repositories-list/repositories-list.tsx"
+    },
+    {
+      "file": "renderer.js",
+      "text": ")",
+      "source": "app/src/ui/repositories-list/repositories-list.tsx"
+    },
+    {
+      "file": "renderer.js",
+      "text": ")",
+      "source": "app/src/ui/changes/commit-message-avatar.tsx"
+    },
+    {
+      "file": "renderer.js",
+      "text": ".gitignore",
+      "source": "app/src/ui/repository-settings/git-ignore.tsx"
+    },
+    {
+      "file": "renderer.js",
+      "text": ")",
+      "source": "app/src/ui/history/compare.tsx"
+    },
+    {
+      "file": "renderer.js",
+      "text": "Atom",
+      "source": "app/src/ui/tutorial/tutorial-panel.tsx"
+    },
+    {
+      "file": "renderer.js",
+      "text": "README.md",
+      "source": "app/src/ui/tutorial/tutorial-panel.tsx"
+    },
+    {
+      "file": "renderer.js",
+      "text": "Git",
+      "source": "app/src/ui/tutorial/welcome.tsx"
+    },
+    {
+      "file": "renderer.js",
+      "text": "GitHub",
+      "source": "app/src/ui/tutorial/welcome.tsx"
+    },
+    {
+      "file": "renderer.js",
+      "text": "GitHub Desktop",
+      "source": "app/src/ui/tutorial/welcome.tsx"
+    },
+    {
+      "file": "renderer.js",
+      "text": "GitHub Desktop",
+      "source": "app/src/ui/welcome/start.tsx"
+    },
+    {
+      "file": "renderer.js",
+      "text": "Arm64",
+      "source": "app/src/ui/banners/update-available.tsx"
+    },
+    {
+      "file": "renderer.js",
+      "text": "GitHub.com",
+      "source": "app/src/ui/preferences/accounts.tsx"
+    },
+    {
+      "file": "renderer.js",
+      "text": "GitHub Enterprise",
+      "source": "app/src/ui/preferences/accounts.tsx"
+    },
+    {
+      "file": "renderer.js",
+      "text": "Git Credential Manager",
+      "source": "app/src/ui/preferences/advanced.tsx"
+    },
+    {
+      "file": "renderer.js",
+      "text": "main",
+      "source": "app/src/ui/preferences/git.tsx"
+    },
+    {
+      "file": "renderer.js",
+      "text": "master",
+      "source": "app/src/ui/preferences/git.tsx"
+    },
+    {
+      "file": "renderer.js",
+      "text": " (",
+      "source": "app/src/ui/preferences/appearance.tsx"
+    },
+    {
+      "file": "renderer.js",
+      "text": ")",
+      "source": "app/src/ui/preferences/appearance.tsx"
+    },
+    {
+      "file": "renderer.js",
+      "text": "GitHub Copilot",
+      "source": "app/src/ui/preferences/integrations.tsx"
+    },
+    {
+      "file": "renderer.js",
+      "text": "(",
+      "source": "app/src/ui/preferences/snapshot-card.tsx"
+    },
+    {
+      "file": "renderer.js",
+      "text": ")",
+      "source": "app/src/ui/preferences/snapshot-card.tsx"
+    },
+    {
+      "file": "renderer.js",
+      "text": "Copilot",
+      "source": "app/src/ui/preferences/preferences.tsx"
+    },
+    {
+      "file": "renderer.js",
+      "text": "Git",
+      "source": "app/src/ui/preferences/preferences.tsx"
+    },
+    {
+      "file": "renderer.js",
+      "text": "Azure",
+      "source": "app/src/ui/copilot/edit-byok-provider-dialog.tsx"
+    },
+    {
+      "file": "renderer.js",
+      "text": "Anthropic",
+      "source": "app/src/ui/copilot/edit-byok-provider-dialog.tsx"
+    },
+    {
+      "file": "renderer.js",
+      "text": "gpt-4o",
+      "source": "app/src/ui/copilot/edit-byok-model-dialog.tsx"
+    },
+    {
+      "file": "renderer.js",
+      "text": "llama3",
+      "source": "app/src/ui/copilot/edit-byok-model-dialog.tsx"
+    },
+    {
+      "file": "renderer.js",
+      "text": "https://gh.io/lfs",
+      "source": "app/src/ui/app-error.tsx"
+    },
+    {
+      "file": "renderer.js",
+      "text": "README.md",
+      "source": "app/src/ui/add-repository/create-repository.tsx"
+    },
+    {
+      "file": "renderer.js",
+      "text": "(",
+      "source": "app/src/ui/clone-repository/clone-generic-repository.tsx"
+    },
+    {
+      "file": "renderer.js",
+      "text": "hubot/cool-repo",
+      "source": "app/src/ui/clone-repository/clone-generic-repository.tsx"
+    },
+    {
+      "file": "renderer.js",
+      "text": ")",
+      "source": "app/src/ui/clone-repository/clone-generic-repository.tsx"
+    },
+    {
+      "file": "renderer.js",
+      "text": "GitHub.com",
+      "source": "app/src/ui/clone-repository/clone-repository.tsx"
+    },
+    {
+      "file": "renderer.js",
+      "text": "GitHub Enterprise",
+      "source": "app/src/ui/clone-repository/clone-repository.tsx"
+    },
+    {
+      "file": "renderer.js",
+      "text": "URL",
+      "source": "app/src/ui/clone-repository/clone-repository.tsx"
+    },
+    {
+      "file": "renderer.js",
+      "text": ")",
+      "source": "app/src/ui/create-branch/create-branch-dialog.tsx"
+    },
+    {
+      "file": "renderer.js",
+      "text": " (",
+      "source": "app/src/ui/create-branch/create-branch-dialog.tsx"
+    },
+    {
+      "file": "renderer.js",
+      "text": "GitHub.com",
+      "source": "app/src/ui/publish-repository/publish.tsx"
+    },
+    {
+      "file": "renderer.js",
+      "text": "GitHub Enterprise",
+      "source": "app/src/ui/publish-repository/publish.tsx"
+    },
+    {
+      "file": "renderer.js",
+      "text": "GitHub Desktop",
+      "source": "app/src/ui/acknowledgements/acknowledgements.tsx"
+    },
+    {
+      "file": "renderer.js",
+      "text": "GitHub",
+      "source": "app/src/ui/acknowledgements/acknowledgements.tsx"
+    },
+    {
+      "file": "renderer.js",
+      "text": "support@github.com",
+      "source": "app/src/ui/terms-and-conditions/terms-and-conditions.tsx"
+    },
+    {
+      "file": "renderer.js",
+      "text": "Git LFS",
+      "source": "app/src/ui/lfs/initialize-lfs.tsx"
+    },
+    {
+      "file": "renderer.js",
+      "text": "Git LFS",
+      "source": "app/src/ui/changes/oversized-files-warning.tsx"
+    },
+    {
+      "file": "renderer.js",
+      "text": " (",
+      "source": "app/src/ui/ssh/add-ssh-host.tsx"
+    },
+    {
+      "file": "renderer.js",
+      "text": " (",
+      "source": "app/src/ui/preferences/test-token-expiration-dialog.tsx"
+    },
+    {
+      "file": "renderer.js",
+      "text": ")",
+      "source": "app/src/ui/preferences/test-token-expiration-dialog.tsx"
+    }
+  ],
+  "displayPropertyExceptions": [
+    {
+      "file": "main.js",
+      "key": "label",
+      "text": "Octicons",
+      "source": "app/src/main-process/menu/build-test-menu.ts"
+    },
+    {
+      "file": "renderer.js",
+      "key": "message",
+      "text": "%gs",
+      "source": "app/src/lib/git/stash.ts"
+    },
+    {
+      "file": "renderer.js",
+      "key": "placeholder",
+      "text": "https://example.ghe.com",
+      "source": "app/src/ui/lib/enterprise-server-entry.tsx"
+    },
+    {
+      "file": "renderer.js",
+      "key": "placeholder",
+      "text": "your-email@example.com",
+      "source": "app/src/ui/lib/configure-git-user.tsx"
+    },
+    {
+      "file": "renderer.js",
+      "key": "text",
+      "text": ":tada:",
+      "source": "app/src/ui/banners/update-available.tsx"
+    },
+    {
+      "file": "renderer.js",
+      "key": "text",
+      "text": ":tada:",
+      "source": "app/src/ui/banners/open-thank-you-card.tsx"
+    },
+    {
+      "file": "renderer.js",
+      "key": "text",
+      "text": ":sob:",
+      "source": "app/src/ui/banners/open-thank-you-card.tsx"
+    },
+    {
+      "file": "renderer.js",
+      "key": "placeholder",
+      "text": "GPT-4o",
+      "source": "app/src/ui/copilot/edit-byok-model-dialog.tsx"
+    },
+    {
+      "file": "renderer.js",
+      "key": "placeholder",
+      "text": "gpt-4o",
+      "source": "app/src/ui/copilot/edit-byok-model-dialog.tsx"
+    },
+    {
+      "file": "renderer.js",
+      "key": "placeholder",
+      "text": "https://example.ghe.com",
+      "source": "app/src/ui/sign-in/sign-in.tsx"
+    },
+    {
+      "file": "renderer.js",
+      "key": "title",
+      "text": "GitHub Copilot",
+      "source": "app/src/ui/copilot-app/copilot-app-not-found-dialog.tsx"
+    },
+    {
+      "file": "renderer.js",
+      "key": "alt",
+      "text": "GitHub Desktop",
+      "source": "app/src/ui/about/about.tsx"
+    },
+    {
+      "file": "renderer.js",
+      "key": "label",
+      "text": "Copilot",
+      "source": "app/src/ui/multi-commit-operation/dialog/copilot-resolution-helpers.ts"
+    },
+    {
+      "file": "renderer.js",
+      "key": "placeholder",
+      "text": "/path/to/repository",
+      "source": "app/src/ui/cli-action/test-cli-action-dialog.tsx"
+    },
+    {
+      "file": "renderer.js",
+      "key": "placeholder",
+      "text": "https://github.com/desktop/desktop",
+      "source": "app/src/ui/cli-action/test-cli-action-dialog.tsx"
+    },
+    {
+      "file": "renderer.js",
+      "key": "placeholder",
+      "text": "main",
+      "source": "app/src/ui/cli-action/test-cli-action-dialog.tsx"
+    },
+    {
+      "file": "renderer.js",
+      "key": "placeholder",
+      "text": "2026-07-10T12:00:00Z",
+      "source": "app/src/ui/preferences/test-copilot-snapshot-card-dialog.tsx"
+    },
+    {
+      "file": "renderer.js",
+      "key": "title",
+      "text": "GitHub Copilot",
+      "source": "app/src/ui/copilot/copilot-disclaimer.tsx"
+    }
+  ]
+}
